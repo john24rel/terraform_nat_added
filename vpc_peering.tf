@@ -1,5 +1,5 @@
 # resource "aws_vpc_peering_connection" "foo" {
-#   peer_owner_id = "808338472994"
+#   peer_owner_id = "802994"
 #   peer_vpc_id   = "${aws_vpc.main.id}"
 #   vpc_id        = "" # the new vpc been created below
 #   peer_region   = "us-east-1"   
